@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="PLCTags_1.xml" projectName="C:\Users\Souilim\Desktop\PLCTags.xlsx" typeText="Type" messageText="Message" timeText="Heure">
+  <LogEntry type="Warning" dateTime="17:38:04">
+    <Message>L'ID de version manque dans les propriétés du fichier XLSX. Il sera supposé qu'il s'agit de la version la plus actuelle.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="17:38:05">
+    <Message>Le document Excel ne contient pas de feuille de calcul "Constants".</Message>
+  </LogEntry>
+</LogFile>

@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Feuille de calcul sans titre (1).xml" projectName="C:\Users\Souilim\Desktop\Feuille de calcul sans titre (1).xlsx" typeText="Type" messageText="Message" timeText="Heure">
+  <LogEntry type="Warning" dateTime="17:31:16">
+    <Message>L'ID de version manque dans les propriétés du fichier XLSX. Il sera supposé qu'il s'agit de la version la plus actuelle.</Message>
+  </LogEntry>
+  <LogEntry type="Warning" dateTime="17:31:16">
+    <Message>Le document Excel ne contient pas de feuille de calcul "PLC Tags".</Message>
+  </LogEntry>
+</LogFile>
